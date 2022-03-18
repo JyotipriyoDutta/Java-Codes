@@ -59,3 +59,5 @@ class Merge_Overlapping_Intervals
             System.out.println(ans[i][0]+" "+ans[i][1]);
     }
 }
+
+// jyotipriyo dutta
